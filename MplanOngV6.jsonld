@@ -1,0 +1,30 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "MplanOngV6": {
+            "@id": "schema:MplanOngV6",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "nom": "schema:name",
+                "numeroRecepisse": "schema:name",
+                "siege": "schema:name",
+                "adresse": "schema:name",
+                "dateDelivranceRecepisse": "schema:name",
+                "dateObtentionAttestation": "schema:name",
+                "numeroAttestation": "schema:name",
+                "ministre": "schema:name",
+                "dateSignature": "schema:name",
+                "nomSignataire": "schema:name",
+                "fonctionSignataire": "schema:name",
+                "email": "schema:name",
+                "accronyme": "schema:name",
+                "telephone": "schema:name"
+            }
+        }
+    }
+}
